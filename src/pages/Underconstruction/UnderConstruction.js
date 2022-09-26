@@ -31,9 +31,9 @@ function UnderConstruction() {
                 <h2>Delight your guests. Do what you love. Thrive.</h2>
                 <p>
                     Myshara Solutions is a Nairobi-based technology solutions start-up with the purpose of developing a product 
-                    that would address and automate most restaurant and hotel operations and services. <br/> <br />
+                    that automates most restaurant and hotel operations and services. <br/> <br />
 
-                    Our major objective is to create a system that manages orders, sales, and payments all in one place using strong 
+                    Our major objective is to create a system that manages orders, sales, staff and payments all in one place using strong 
                     cloud-based software, transparent payment processing, and restaurant-grade hardware designed specifically for the 
                     restaurant sector. <br/> <br />
 
