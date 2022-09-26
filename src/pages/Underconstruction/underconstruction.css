@@ -37,7 +37,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: yellow;
+    background: rgb(255, 196, 0);
     padding: 0.5rem 1rem;
     border-left: 4px solid black;
     margin-top: 2rem;
@@ -64,6 +64,7 @@
 
 .subscribe_container-form input:focus {
     border: none;
+    outline: none;
 }
 
 .subscribe_container-form input:active {
@@ -87,7 +88,33 @@
 }
 
 @media screen and (max-width: 1080px) {
-    
+    .section_1 {
+        padding: 1rem 1rem;
+    }
+
+    .subscribe_container {
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+
+    .subscribe_container-form {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .subscribe_container-form input {
+        margin-left: 0rem;
+        padding: 1rem 0rem;
+    }
+
+    .submitSubscription_btn {
+        margin: 1rem 0rem;
+    }
+
+    .section_2 img {
+        width: 17rem;
+    }
 }
 
 @media screen and (max-width: 650px) {

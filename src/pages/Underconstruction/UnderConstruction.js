@@ -28,8 +28,17 @@ function UnderConstruction() {
             <h1>MYSHARA</h1>
 
             <div className='section_1-1'>
-                <h2>PROGRESSIVE PERFORMANCE MANAGEMENT</h2>
-                <p>Myshara Solutions is a Nairobi-based technology solutions start-up with the purpose of developing a tech product that would address and automate most restaurant and hotel operations and services.</p>
+                <h2>Delight your guests. Do what you love. Thrive.</h2>
+                <p>
+                    Myshara Solutions is a Nairobi-based technology solutions start-up with the purpose of developing a product 
+                    that would address and automate most restaurant and hotel operations and services. <br/> <br />
+
+                    Our major objective is to create a system that manages orders, sales, and payments all in one place using strong 
+                    cloud-based software, transparent payment processing, and restaurant-grade hardware designed specifically for the 
+                    restaurant sector. <br/> <br />
+
+                    You may assist us in developing the greatest product by completing our <a href='https://docs.google.com/forms/d/1ZYrZzzny81PirPOParsKmpYaOcvylkd4bsvrbE5blBo/edit?usp=sharing'>questionnaire</a>. Please subscribe below to receive our most recent update.
+                </p>
 
                 <form className='subscribe_container'>
                     <div className='subscribe_container-form'>
