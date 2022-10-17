@@ -6,7 +6,7 @@ function Copyright() {
     <div className="copyright">
         <p>
             {`Copyright © ${new Date().getFullYear()} `}
-            <a href="https://victor-githui.netlify.app/">MyShara Solutions</a>
+            <a href="https://mysharasolutions.com/">MyShara Solutions</a>
         </p>
 
         {/* <p>
